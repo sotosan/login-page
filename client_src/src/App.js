@@ -1,13 +1,12 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import Test from "./components/Test";
+import LoginForm from "./components/LoginForm";
+import bootstrap from "bootstrap/dist/css/bootstrap.min.css";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Test />
+        <LoginForm />
       </div>
     );
   }
