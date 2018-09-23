@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "loginproject:Gurren08!@ds111063.mlab.com",
+    "port": 11063,
+    "url": "mongodb://gsoto:Gurren08!@ds111063.mlab.com:11063/loginproject",
+    "database": "loginproject",
+    "password": "Gurren08!",
+    "name": "db",
+    "user": "gsoto",
+    "connector": "mongodb"
+  }
+}
